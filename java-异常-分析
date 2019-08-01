@@ -1,0 +1,11 @@
+容器内有java要添加 cap_add: SYS_PTRACE,重启
+
+##   Java线上应用故障排查之一：高CPU占用
+https://blog.csdn.net/puhaiyang/article/details/78663942
+##   java线上应用故障排查之二：高内存占用 
+https://www.cnblogs.com/paul8339/p/7464225.html
+
+## 脚本show-busy-java-threads
+https://github.com/oldratlee/useful-scripts/blob/master/docs/java.md#-show-busy-java-threads
+
+
